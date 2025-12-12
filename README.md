@@ -19,3 +19,6 @@ Includes two detailed usage scenarios from each team member, illustrating how di
 
 ### **3_Prompts/**
 Contains the prompts developed by each team member based on their usage scenarios, showing how AdaptEd should behave and respond in those contexts.
+
+### **4_Workflows/**
+Completes a thorough workflow based on a unified usage scenario and testing prompts across the entire group's previous milestones. Implemented and tested workflow against a holistic scenario! Generalized all scenarios to form this final path.
