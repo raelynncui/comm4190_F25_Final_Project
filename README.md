@@ -12,7 +12,7 @@ AdaptEd is an LLM-powered personalized lesson-plan creator designed to support e
 ## Repository Structure
 
 ### **1_Ideas/**
-Contains all early brainstorming notes and the finalized description of AdaptEd, our chosen LLM.
+Contains all early brainstorming notes and the finalized description of AdaptEd, our chosen LLM. Under this folder, navigate to final_idea to see what we landed on!
 
 ### **2_Usage_Scenarios/**
 Includes two detailed usage scenarios from each team member, illustrating how different target users would interact with AdaptEd.
