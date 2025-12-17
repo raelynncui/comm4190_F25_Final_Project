@@ -1,9 +1,14 @@
 # AdaptEd - No learner left behind
+Founders: Mallika Kulkarni, Raelynn Cui, Athena Krik
 Final Group Project for COMM4190 (Fall 2025)
 
 ---
 
-## AdaptEd: Project Overview
+## AdaptEd: Overview
+
+![JPEG image](https://github.com/user-attachments/assets/42954b85-06d4-49be-b715-ce32c2dc057c)
+
+### Because no two students learn the same.
 
 AdaptEd is an LLM-powered personalized lesson-plan creator designed to support every learner, especially students with learning disabilities. It generates intelligent, adaptive teaching plans based on a student’s goals, reading level, attention span, and preferred learning modalities. Users (teachers, parents, tutors) provide key information, and AdaptEd produces tailored lesson plans, materials, and progress updates.
 
