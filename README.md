@@ -1,6 +1,5 @@
 # AdaptEd - No learner left behind
 Founders: Mallika Kulkarni, Raelynn Cui, Athena Krik
-Final Group Project for COMM4190 (Fall 2025)
 
 ---
 
