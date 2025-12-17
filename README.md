@@ -1,4 +1,4 @@
-# comm4190_F25_Final_Project
+# AdaptEd - No learner left behind
 Final Group Project for COMM4190 (Fall 2025)
 
 ---
