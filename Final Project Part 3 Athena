@@ -1,0 +1,69 @@
+Scenario 1: Differentiated Lesson Planning
+Description
+
+Creating a standards aligned lesson with personalized learning paths for students who have different needs.
+
+Narrative
+
+Ms. Rivera teaches seventh grade science and must prepare a lesson on photosynthesis that supports students with dyslexia, ADHD, and two multilingual learners. She uploads her roster, IEP goal summaries, and quiz results. AdaptEd analyzes the information and creates a complete lesson with leveled paths, small group rotations, simplified readings, and tailored checks for understanding. During class Ms. Rivera logs observations and exit ticket scores. AdaptEd updates mastery estimates and recommends next steps for the following day.
+
+Interaction Steps
+
+Teacher selects lesson topic and standard.
+
+Uploads roster, IEP summaries, quiz data, and language levels.
+
+Enters class constraints such as timing and device access.
+
+AdaptEd generates objectives, differentiated paths, groupings, leveled readings, activities, and exit tickets.
+
+Teacher revises the lesson with natural language edits.
+
+During class teacher logs observations.
+
+AdaptEd updates mastery and suggests next steps.
+
+Data
+
+Data Needed: student roster, IEP summaries, assessment scores, language proficiency levels, class constraints, standards.
+Data Created: full lesson plan, differentiated paths, leveled readings, activity set, checks for understanding, mastery updates.
+
+Evaluation
+
+Success Indicators: alignment to standard, correct differentiation, appropriate accessibility levels, accurate mastery adjustments.
+Considerations: missing data, conflicting accommodations, content errors, unexpected inputs, privacy concerns.
+
+Scenario 2: Home Reading Intervention
+Description
+
+Generating a four week adaptive reading plan for home support.
+
+Narrative
+
+Mr. Chen wants structured reading help for his daughter who has dyslexia. He completes an intake about her interests, challenges, and stamina, and uploads recent assessments. AdaptEd creates a twenty minute per day plan with phonics drills, decodable texts, and simple comprehension checks. After each session he logs performance and engagement. AdaptEd adjusts the difficulty every few sessions and prepares weekly summaries that can be shared with her teacher if he chooses.
+
+Interaction Steps
+
+Parent selects Reading Intervention and sets schedule.
+
+Completes intake on strengths, challenges, interests, and device access.
+
+Uploads optional IEP or assessment pages.
+
+AdaptEd generates a four week schedule with materials.
+
+Parent completes sessions and logs outcomes.
+
+AdaptEd adjusts the plan as progress is made.
+
+Weekly summaries are created for optional sharing.
+
+Data
+
+Data Needed: child profile, strengths, challenges, schedule, preferences, optional assessments.
+Data Created: adaptive schedule, decodable texts, activity sets, session logs, weekly progress summaries.
+
+Evaluation
+
+Success Indicators: plan fits constraints, activities match needs, difficulty adjusts correctly, summaries communicate progress.
+Considerations: incomplete intake, engagement variability, inaccurate logging, privacy and consent.
